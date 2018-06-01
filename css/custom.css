@@ -268,7 +268,10 @@ img.frame {
 .fa-github:hover {
     color: #4f70ce;
 }
-.fa-google-plus:hover {
+/* .fa-google-plus:hover {
+    color: #4f70ce;
+} */
+.fa-dribbble-square:hover {
     color: #4f70ce;
 }
 
